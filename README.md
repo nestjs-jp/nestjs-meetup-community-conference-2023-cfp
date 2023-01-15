@@ -1,6 +1,6 @@
-# nestjs-meetup-community-conference-2022-cfp
+# nestjs-meetup-community-conference-2023-cfp
 
-This is the NestJS MeetUp 2022-CFP repository; NestJS Meetup 2022-CFP is led by the NestJS JapanUsersGroup.
+This is the NestJS MeetUp 2023-CFP repository; NestJS Meetup 2022-CFP is led by the NestJS JapanUsersGroup.
 
 ## Join the Community
 
